@@ -57,8 +57,8 @@ This project implements a **fully serverless data lake** architecture on AWS. It
 ### 2️⃣ Deployment Steps
 #### **Step 1: Clone the Repository**
 ```bash
-git clone https://github.com/your-github/aws-data-lake.git
-cd aws-data-lake
+git clone https://github.com/ashis-88/serverless-DataLake-AWS.git
+cd serverless-DataLake-AWS
 ```
 
 #### **Step 2: Deploy with Terraform**
