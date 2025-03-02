@@ -1,0 +1,20 @@
+# Core dependencies
+boto3>=1.26.0
+pandas>=1.5.0
+pyarrow>=8.0.0
+opensearch-py>=2.0.0
+requests_aws4auth>=1.1.0
+
+# Data processing
+numpy>=1.23.0
+scikit-learn>=1.1.0
+
+# Date/time handling
+python-dateutil>=2.8.2
+
+# Progress bars for data processing
+tqdm>=4.64.0
+
+# File formats
+fastparquet>=0.8.3
+openpyxl>=3.0.10  # For Excel support

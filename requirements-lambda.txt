@@ -1,0 +1,13 @@
+# Minimal dependencies for Lambda deployment
+# These packages will be included in the Lambda deployment package
+
+boto3>=1.26.0
+pandas>=1.5.0
+pyarrow>=8.0.0
+opensearch-py>=2.0.0
+requests_aws4auth>=1.1.0
+python-dateutil>=2.8.2
+numpy>=1.23.0
+
+# Note: boto3 is provided in the Lambda runtime environment,
+# but included here for local testing consistency
