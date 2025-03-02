@@ -163,6 +163,8 @@ Implement fine-grained IAM permissions
 Enable encryption for data at rest and in transit
 
 
+
+
 ##  Monitoring & Logs
 - Use **AWS CloudWatch Logs** to monitor Lambda executions.
 - **CloudWatch Metrics** for API Gateway and Lambda performance.
