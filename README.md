@@ -13,10 +13,10 @@ a serverless data lake architecture built on AWS services
 
 # AWS Serverless Data Lake with API Gateway, Lambda & S3
 
-## 🚀 Project Overview
+##  Project Overview
 This project implements a **fully serverless data lake** architecture on AWS. It is designed for efficient data ingestion, transformation, and querying using **API Gateway, Lambda, S3, DynamoDB, OpenSearch, Athena, and Glue**.
 
-## 🎯 Key Features
+##  Key Features
 - **API Gateway** to expose RESTful API endpoints.
 - **AWS Lambda** for event-driven data processing.
 - **Amazon S3** for data storage.
@@ -27,7 +27,7 @@ This project implements a **fully serverless data lake** architecture on AWS. It
 - **Amazon CloudWatch** for monitoring and logging.
 - **IAM Roles & Cognito** for authentication and access control.
 
-## 🏗️ Architecture
+##  Architecture
 
 ![Architecture Diagram](./architecture.png)
 
